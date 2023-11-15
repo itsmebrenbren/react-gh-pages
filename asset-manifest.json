@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.aa5c7e2d.css",
+    "main.js": "/react-gh-pages/static/js/main.4ca91be6.js",
+    "static/js/787.e6521474.chunk.js": "/react-gh-pages/static/js/787.e6521474.chunk.js",
+    "static/media/DogaDooCG_Piixel.png": "/react-gh-pages/static/media/DogaDooCG_Piixel.7e63829776086d8c2beb.png",
+    "static/media/VCR_OSD_MONO_1.001.ttf": "/react-gh-pages/static/media/VCR_OSD_MONO_1.001.10cf96d54dcd9af0486c.ttf",
+    "static/media/PortfolioPic1.jpg": "/react-gh-pages/static/media/PortfolioPic1.a80d4a5dae62e7d8f5d6.jpg",
+    "static/media/Righteous-Regular.ttf": "/react-gh-pages/static/media/Righteous-Regular.fd0110471f2228c1808a.ttf",
+    "static/media/ChicagoFLF.ttf": "/react-gh-pages/static/media/ChicagoFLF.cacc40068a3f040ad27a.ttf",
+    "index.html": "/react-gh-pages/index.html",
+    "main.aa5c7e2d.css.map": "/react-gh-pages/static/css/main.aa5c7e2d.css.map",
+    "main.4ca91be6.js.map": "/react-gh-pages/static/js/main.4ca91be6.js.map",
+    "787.e6521474.chunk.js.map": "/react-gh-pages/static/js/787.e6521474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa5c7e2d.css",
+    "static/js/main.4ca91be6.js"
+  ]
+}
