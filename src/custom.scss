@@ -1,0 +1,26 @@
+// Required
+@import "../node_modules/bootstrap/scss/functions";
+
+// Default variable overrides
+$body-bg: #000;
+$body-color: #111;
+
+// Required
+@import "../node_modules/bootstrap/scss/variables";
+@import 'bootstrap/dist/css/bootstrap.css';
+@import "../node_modules/bootstrap/scss/mixins";
+
+
+$custom-colors: (
+    "romantic": #ffcdb3,
+    "wax-flower": #ffb4a2,
+    "tonys-pink": #e5989b,
+    "brandy-rose": #b5838d,
+    "salt-box": #6d6875,
+    "dark-boi": #383950
+);
+
+// Merge the maps
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
